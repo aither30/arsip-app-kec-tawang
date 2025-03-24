@@ -1,0 +1,47 @@
+{
+  "name": "arsip-app-kec-tawang",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-pdf-viewer/core": "^3.12.0",
+    "@react-pdf-viewer/default-layout": "^3.12.0",
+    "@react-pdf/renderer": "^4.3.0",
+    "docx": "^9.3.0",
+    "exceljs": "^4.4.0",
+    "file-saver": "^2.0.5",
+    "jspdf": "^3.0.1",
+    "jspdf-autotable": "^5.0.2",
+    "lucide-react": "^0.479.0",
+    "next-transpile-modules": "^10.0.1",
+    "pdfjs-dist": "^3.11.174",
+    "pspdfkit": "^2024.8.2",
+    "react": "^19.0.0",
+    "react-doc-viewer": "^0.1.14",
+    "react-documents": "^1.2.1",
+    "react-dom": "^19.0.0",
+    "react-pdf": "^9.2.1",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4.0.14",
+    "@types/exceljs": "^0.5.3",
+    "@types/file-saver": "^2.0.7",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "autoprefixer": "^10.4.21",
+    "eslint": "^9",
+    "eslint-config-next": "15.2.2",
+    "next": "^15.2.2",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.0.14",
+    "typescript": "^5"
+  }
+}
